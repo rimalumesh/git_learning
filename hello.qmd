@@ -1,0 +1,14 @@
+```{python}
+#this is python section
+import pandas
+import numpy
+print("hellow world")
+a = "umesh"
+```
+
+```{r}
+library(tidyverse)
+print("hellow world")
+b= "rimal"
+print(a)
+```
